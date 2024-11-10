@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.Card{
+  border: 1px ;
+  margin: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px;
+}
+
+.Input_Field{
+  border-radius: 10px;
+  border: 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.btn{
+  border-radius: 7px;
+  border: 0px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-left: 10px;
+}
